@@ -1,0 +1,153 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    background-size:contain;
+    background-position: center;
+    background-attachment: fixed;
+    padding:0;
+    margin:0;
+    font:15px Arial, Helvetica;
+}
+
+header{
+    background-color: #fff;
+
+    color:rgb(19, 18, 18);
+    padding-top: 30px;
+    min-height: 100px;
+    border-bottom: 5px solid rgb(29, 117, 88);
+    
+}
+
+.Contenedor{
+    background-color: rgb(29, 117, 88);
+    width: 70%;
+    margin:auto;
+
+}
+header #marca{
+    float: left;
+    background: #88c93d;
+    margin:auto;
+    width:220px;
+    text-align: center;
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+header ul{
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+header li{
+    float: left;
+    display:inline;
+    padding:0 20px 0 20px;
+    
+}
+
+header a{
+    color:rgb(19, 18, 18);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+
+}
+header a:hover{
+    color:#ccc;
+    font-weight: bold;
+}
+.p1{
+    float: left;
+    text-align: center;
+    color: black;
+    font-size: larger;
+    background: #fff;
+    margin:auto;
+    opacity:0.7;
+    width:280px;
+    height: 536px;
+    font:52px Arial, Helvetica;
+}
+.contiene{
+    text-align: center;
+    color: black;
+}
+.tablas{
+    font:24px Arial, Helvetica;  
+    background:gray;
+    opacity:0.9;
+    color:#fff;
+}
+
+.tablas1{
+    font:24px Arial, Helvetica;  
+    background:#e93232;
+    opacity:0.9;
+    color:white;
+}
+
+.tablas2{
+    font:24px Arial, Helvetica;  
+    background: rgb(104, 98, 194);
+    opacity:0.9;
+    color:black;
+}
+
+.tablas3{
+    font:24px Arial, Helvetica;  
+    background: rgb(31, 230, 97);
+    opacity:0.9;
+    color:black;
+}
+
+.tablas4{
+    font:24px Arial, Helvetica;  
+    background: rgb(236, 48, 158);
+    opacity:0.9;
+    color:black;
+}
+
+.tablas5{
+    background: url(../img/sal.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    padding:0;
+    margin:0;
+    font:20px Arial, Helvetica;
+    opacity:0.8;
+    color:rgba(252, 246, 246, 0.918);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
